@@ -19,6 +19,7 @@ If you have additional questions, you can check out the KotOR Speedrunning Disco
 - [Alignment Route](#alignment-route)
 - [Route Overview](#route-overview)
 - [Detailed Route](#detailed-route)
+- [Version History](#version-history)
 
 ## Glitchless Ruleset
 
@@ -167,9 +168,8 @@ This is a very good off-hand weapon that increases our accuracy while having hig
 **Belt**: None. Or the best belt you looted
 - There are no good guaranteed belts we can purchase for an affordable price. See itemization below for things you are looking for in a belt.
 
-**Shield Slots**: MC's Armband, Energy Shield
-- The Armband gives us +1 to Constitution, which in turn gives MC more HP.
-The Energy Shield is equipped to mitigate damage from blasters, which is primarily used at Peragus when walking through mines. There are a couple sections in this run where Energy Shields will be helpful for MC and other party members.
+**Shield Slots**: Energy Shield, (or whatever shield you choose to use.
+- The Energy Shield is equipped to mitigate damage from blasters, which is primarily used at Peragus when walking through mines. There are a couple sections in this run where Energy Shields will be helpful for MC and other party members.
 
 The majority of our equipment is attained in Nar Shaddaa. For the early game, we will make use of a pair of Vibroswords, though some exceptions can be made depending on the randomization the shops have.
 
@@ -339,7 +339,6 @@ If no conversation choices are specified, spamming will work (this chooses all 1
 - [Jedi Masters](#jedi-masters)
 - [Ravager](#ravager)
 - [Malachor V](#malachor-v)
-- [Version History](#version-history)
 
 ## Prologue
 
@@ -413,7 +412,7 @@ T3 gets zapped and control transitions to MC
 - Head to the bridge as Kreia to the console: 1,1,2
 - Break the next door as MC and run to the next area.
 - Turn on solo mode and run straight until prompted: 3
-- Loot the footlocker for MC’s armband, then make your way to the next area.
+- Then make your way to the next area.
 - Run forward for a conversation with Atton: 1 spam
 - Watch the long cutscene with Sion and Kreia, then open the room straight ahead.  
 - Break and loot the footlocker closest to the console for a vibroblade, then interact with the console (1 spam)
@@ -803,7 +802,7 @@ All other items as needed to get 2000 credits EXCEPT:
 <br>
   - *DO NOT LEAVE THE EBON HAWK AFTER THIS CUTSCENE UNTIL THE FOLLOWING MENU HAS BEEN DONE*
   - `}` Unequip MC’s weapons + Plasma Torch (give them 1 spare lightsaber for Force Jump)
-  - `}` Give Visas (change 2 right): Lightsaber Mainhand + any Offhand Lightsaber OR Vibrosword if all double sided lightsabers, Energy Shield, MC's Armband, Stealth Field Generator, Targeting Visor
+  - `}` Give Visas (change 2 right): Lightsaber Mainhand + any Offhand Lightsaber OR Vibrosword if all double sided lightsabers, Energy Shield, Stealth Field Generator, Targeting Visor
 <br>
 - Once Visas is equipped, now is the time to do a memory reset if you aren't doing it at the start of Dxun.
 - Simply make a save and Alt-F4 your game, open it again and load the save.
@@ -929,7 +928,7 @@ All other items as needed to get 2000 credits EXCEPT:
 - Afterwards, loot the Sith for the Power Gauntlets.  Run to the sarcophagus to loot Freedon Nadd's Lightsaber.
 
 *YOU MUST UNEQUIP VISAS BEFORE TALKING TO XARGA AGAIN OR ELSE YOUR RUN ENDS HERE*
-  - `}` Unequip Visas's lightsabers, helmet, and MC's armband.
+  - `}` Unequip Visas's lightsabers, and helmet.
 
 ### Onderon Palace
 - Convo: 3 3
@@ -1101,6 +1100,7 @@ Traya: 4,4
 - Updated Alignment Route.
 - Updated Credit Route / Shopping trips to be more accurate and efficient.
 - Updated dialog for first HK-47 Encounter.
+- Removed looting MC's Armband on Harbinger, due to it not giving MC any bonuses.
 - Updated dialog during 'Ebon Hawk to Telos'; giving us +1 LSP (+1 more than previous iteration).
 - Updated dialog for Telos Station fast travel terminals.
 - Added new Goto's Yacht route found by Ninko (saves ~1 minute).
